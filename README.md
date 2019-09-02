@@ -1,0 +1,2 @@
+# UsagiMemo
+First repository
